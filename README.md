@@ -1,5 +1,7 @@
 # Matches Simulator App
 
+<img src="https://github.com/Alexxmfs/matches-simulator/blob/master/app-rodando.png?raw=true" />
+
 App Android Nativo de Simulação de Partidas. Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 1. Desenvolvimento Mobile Nativo Para Android
